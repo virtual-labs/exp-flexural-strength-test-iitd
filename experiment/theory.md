@@ -1,3 +1,5 @@
+### Introduction
+
 In normal structural design of members in flexure, the tensile strength of concrete is ignored. However, it is important to estimate the cracking load. The absence of cracking is important in maintaining the continuity of a concrete structure for diminishing the corrosion of reinforcement, the liquid retaining structures, for aesthetics, etc. Restrained shrinkage and temperature gradients also introduce tensile stresses. In roads, pavements and airport runways flexural tension must be resisted since steel reinforcement is absent in such pavements. Tensile strength of plain concrete can be determined by the following methods:
 
 <img src="images/t1.png"/>
@@ -27,7 +29,7 @@ Number of specimens: At least three specimens shall be tested for each age of te
 Testing conditions: Tests shall be made at the recognized ages of the test specimens, the most usual being 7 and 28 days.
 <br> <br>
 
-## Apparatus:
+### Apparatus:
 
 | Name | 	Accuracy/Least count|
 | ------ | ------ |

@@ -111,7 +111,7 @@
         },
 
         {
-            question: "3. For two beam specimens of same size, load at failure is reported same but with different fracture type. Higher flexural strength will be of specimen having", ///// Write the question inside double quotes
+            question: "3. For two beam specimens of same size, load at failure is reported same but with different fracture type. Higher flexural strength will be of specimen having-", ///// Write the question inside double quotes
             answers: {
                 a: "Type A failure", ///// Write the option 1 inside double quotes
                 b: "Type B failure", ///// Write the option 2 inside double quotes
@@ -120,9 +120,7 @@
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
         },
-
-         
-
+        
          
 
     // {
@@ -130,7 +128,8 @@
     //   answers: {
     //     a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
     //     b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-    //     c: "<img src='images/1c.PNG'>",      },
+    //     c: "<img src='images/1c.PNG'>",      
+// },
     //   correctAnswer: "c"                ///// Write the correct option inside double quotes
     // },
 
