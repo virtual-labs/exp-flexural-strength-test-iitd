@@ -132,18 +132,23 @@
             correctAnswer: "c" ///// Write the correct option inside double quotes
         },
 
+
         {
             question: "5. What is the rate of the loading to be applied on the beam specimen?", ///// Write the question inside double quotes
             answers: {
-                a: "0.5 N/mm<sup>2</sup>/min", ///// Write the option 1 inside double quotes
-                b: "0.7 N/mm<sup>2</sup>/min", ///// Write the option 2 inside double quotes
-                c: "1.4 N/mm<sup>2</sup>/min", ///// Write the option 1 inside double quotes
-                d: "2.0 N/mm<sup>2</sup>/min", ///// Write the option 2 inside double quotes
+                a: "0.5 N/mm2/min", ///// Write the option 1 inside double quotes
+                b: "0.7 N/mm2/min", ///// Write the option 2 inside double quotes
+                c: "1.4 N/mm2/min", ///// Write the option 1 inside double quotes
+                d: "2.0 N/mm2/min", ///// Write the option 2 inside double quotes
             },
             correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
+
         
+        
+
+
     // {
     //   question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
     //   answers: {

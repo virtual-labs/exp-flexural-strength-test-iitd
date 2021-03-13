@@ -1,3 +1,4 @@
+# Pre Test
 Q1. Which Indian Standard (IS) code is adopted for the determination of flexure strength of hardened concrete?<br>
 A    IS-456<br>
 B    IS-10262<br>
