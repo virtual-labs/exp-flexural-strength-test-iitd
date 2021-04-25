@@ -1,1 +1,28 @@
-[{"question":"1. which type of loading is applied in flexure strength test?","answers":{"a":"Single point loading","b":"Four-point loading","c":"Three-point loading","d":"Uniform distributed load"},"correctAnswer":"b"},{"question":"2. A beam having cross section 100mmx100mm and span length 400 mm, load at failure is equal to 5KN in flexural strength test failure type A. Flexural strength will","answers":{"a":"2 MPa","b":"4 MPa","c":"6 MPa","d":"8 MPa"},"correctAnswer":"a"},{"question":"3. For two beam specimens of same size, load at failure is reported same but with different fracture type. Higher flexural strength will be of specimen having-","answers":{"a":"Type A failure","b":"Type B failure","c":"Equal flexural strength for both","d":"Cannot say"},"correctAnswer":"a"}]
+[{
+	"question": "1. which type of loading is applied in flexure strength test?",
+	"answers": {
+		"a": "Single point loading",
+		"b": "Four-point loading",
+		"c": "Three-point loading",
+		"d": "Uniform distributed load"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "2. A beam having cross section 100mmx100mm and span length 400 mm, load at failure is equal to 5KN in flexural strength test failure type A. Flexural strength will",
+	"answers": {
+		"a": "2 MPa",
+		"b": "4 MPa",
+		"c": "6 MPa",
+		"d": "8 MPa"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "3. For two beam specimens of same size, load at failure is reported same but with different fracture type. Higher flexural strength will be of specimen having-",
+	"answers": {
+		"a": "Type A failure",
+		"b": "Type B failure",
+		"c": "Equal flexural strength for both",
+		"d": "Cannot say"
+	},
+	"correctAnswer": "a"
+}]
