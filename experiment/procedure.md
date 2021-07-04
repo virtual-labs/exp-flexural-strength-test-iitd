@@ -56,13 +56,100 @@ Figure. Type B failure/Unsatisfactory failure
 <br>
 The flexural strength shall be expressed to the nearest 0.05 MPa.
 <br><br>
+<table>
+	<tr>
+		<td>
+			No.
+		</td>
+		<td>
+			Span length , L (mm)
+		</td>
+		<td>
+			Depth, width, B, D (mm)
+		</td>
+		<td>
+			Failure Load, P (N)
+		</td>
+		<td>
+			Failure (Type A/B/unsatisfactory)
+		</td>
+		<td>
+			Position of fracture, a (mm)
+		</td>
+		<td>
+			Flexural Strength (N/mm<sup>2</sup>)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			1
+		</td>
+		<td>
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			2
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			3
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Average:
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+	</tr>
+</table>
 
-| No. | Span length , L (mm) | Depth, width, B, D (mm) |Failure Load, P (N) |Failure (Type A/B/unsatisfactory) |Position of fracture, a (mm) |Flexural Strength (N/mm2) |
-| ------ | -------- | ------ |------ |------- |------ |------ |
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| Average:| | | | | | |
 
 <br>
 
