@@ -33,14 +33,14 @@ The fractured specimen shall be examined, and the appearance of the concrete and
 
 <img src="images/p1.png" style="height: 50px;"><br>
 
-<img src="images/p2.png" style="height: 50px;">
+<center><img src="images/p2.png" style="height: 50px;">
 
-Figure. Type A failure
+Figure. Type A failure</center>
 
-2. Type B failureis when the fracture initiates in the tension surface outside of the middle third of the span length by not approximately more than 5 percent of the span length. In case of type B failure, modulus of rupture fcr is given by the following formula:
+2. Type B failureis when the fracture initiates in the tension surface outside of the middle third of the span length by not approximately more than 5 percent of the span length. In case of type B failure, modulus of rupture f<sub>cr</sub> is given by the following formula:
 <br>
 
-<img src="images/p3.png" style="height: 50px;">
+<center><img src="images/p3.png" style="height: 50px;"></center>
 <br>
 
 where 'a' is the distance between the line of fracture and the nearer support, measured on the center line of the tensile side of the specimen. 'a' shall be less than 200 mm but greater than 170 mm for 150 mm specimen, or less than 133 mm but greater than 110 mm for a 100 mm specimen.
@@ -57,7 +57,7 @@ Figure. Type B failure/Unsatisfactory failure
 The flexural strength shall be expressed to the nearest 0.05 MPa.
 <br><br>
 <table>
-	<tr>
+	<tr style="font-weight:bold;">
 		<td>
 			No.
 		</td>
@@ -155,13 +155,45 @@ The flexural strength shall be expressed to the nearest 0.05 MPa.
 
 **Results:**
 
+<table>
+	<tr style="font-weight:bold;">
+		<td>
+			Date of test:
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Size of the specimen in mm:
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Google Drive Age of specimen at date of test:
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Weight of specimen in Newtons:
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Flexural strength:
+		</td>
+		<td>		
+		</td>
+	</tr>
+</table>
 
-|Date of test:  |           | 
-|----------- | :-------------: |
-| Size of the specimen in mm: |           |
-| Google Drive Age of specimen at date of test:| |
-| Weight of specimen in Newtons: |  |
-| Flexural strength: | |
+
 
 **Precautions:**
 1. Verify that the samples do not have any significant defects that may affect the quality of the test results
