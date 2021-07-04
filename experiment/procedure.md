@@ -40,7 +40,7 @@ Figure. Type A failure</center>
 2. Type B failureis when the fracture initiates in the tension surface outside of the middle third of the span length by not approximately more than 5 percent of the span length. In case of type B failure, modulus of rupture f<sub>cr</sub> is given by the following formula:
 <br>
 
-<center><img src="images/p3.png" style="height: 51px;"></center>
+<img src="images/p3.png" style="height: 51px;">
 <br>
 
 where 'a' is the distance between the line of fracture and the nearer support, measured on the center line of the tensile side of the specimen. 'a' shall be less than 200 mm but greater than 170 mm for 150 mm specimen, or less than 133 mm but greater than 110 mm for a 100 mm specimen.
