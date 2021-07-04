@@ -1,0 +1,46 @@
+[{
+	"question": "1. Which Indian Standard (IS) code is adopted for the determination of flexure strength of hardened concrete?",
+	"answers": {
+		"a": "IS-456",
+		"b": "IS-10262",
+		"c": "IS-516",
+		"d": "IS-13311"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "2. What are the recognized ages of the test specimen at the time of the test in days as per IS:516?",
+	"answers": {
+		"a": "7,28",
+		"b": "7,31",
+		"c": "10,29",
+		"d": "9,30"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "3. According to IS516, what should be the length of the specimen having square cross section of nominal width 100mm?",
+	"answers": {
+		"a": "300mm",
+		"b": "400mm",
+		"c": "500mm",
+		"d": "600mm"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "4. What is the minimum number of test specimens required?",
+	"answers": {
+		"a": "1",
+		"b": "2",
+		"c": "3",
+		"d": "4"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "5. What is the rate of the loading to be applied on the beam specimen?",
+	"answers": {
+		"a": "0.5 N/mm2/min",
+		"b": "0.7 N/mm2/min",
+		"c": "1.4 N/mm2/min",
+		"d": "2.0 N/mm2/min"
+	},
+	"correctAnswer": "b"
+}]
