@@ -6,6 +6,7 @@
 
 **Measurement**
 
+
 2. The mass and dimensions of the specimen shall be noted before testing.
 
 3. The dimensions of thespecimen shall be taken to the nearest 0.2 mm. Positioning.
@@ -19,16 +20,27 @@
 
 6. The load shall be applied without shock and increasedcontinuously at a nominal rate of 0.7 MPa/min(at a rate of loading of 4kN/min for 150mm specimens and 1.8kN/min for 100mm specimens.).
 
+<br>
+
+
 
 **Failure load**
 
+
 7. The maximum load applied shall then be recorded. Theappearance of concrete and any unusual features in the type of failure shall also be noted.
+
+<br>
+
 
 
 **Assessment of type of fracture:**
 
+
 The fractured specimen shall be examined, and the appearance of the concrete and type of fracture shall be recorded.The modulus of rupture value is calculated based on the location of the observed fracture.
 1. Type-A failure is when the fracture initiates in the tension surface within the middle third of the span (between the loading points). In case of type A failure, modulus of rupture fcr is given by the following formula:
+
+<br>
+
 <br>
 
 <img src="images/p1.png" style="height: 50px; padding-left: 50px;"><br>
@@ -52,8 +64,10 @@ Figure. Type B failure/Unsatisfactory failure</center>
 3. Unsatisfactory failure is when the fracture initiates in the tension surface outside of the middle third of the span length by approximately more than 5 percent of the span length. When 'a' is less than 170 mm for a 150 mm specimen, or less than 110 mm fora 100 mm specimen, the results of the test shall be discarded.
 
 **Observations and Calculation:**
+
 <br>
 The flexural strength shall be expressed to the nearest 0.05 MPa.
+
 <br><br>
 <table>
 	<tr style="font-weight:bold;">
@@ -150,7 +164,57 @@ The flexural strength shall be expressed to the nearest 0.05 MPa.
 </table>
 
 
+
 <br>
+
+<table>
+	<tr>
+		<td>No.</td>
+		<td>Span length , L (mm)</td>
+		<td>Depth, width, B, D (mm)</td>
+		<td>Failure Load, P (N)</td>
+		<td>Failure (Type A/B/unsatisfactory)</td>
+		<td>Position of fracture, a (mm)</td>
+		<td>Flexural Strength (N/mm<sup>2</sup>)</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Average:</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+ 
 
 **Results:**
 
@@ -195,7 +259,7 @@ The flexural strength shall be expressed to the nearest 0.05 MPa.
 
 
 **Precautions:**
-1. Verify that the samples do not have any significant defects that may affect the quality of the test results
+1. Verify that the samples do not have any significant defects that may affect the quality of the test results.
 2. The sample should be placed in the machine such that form faces are on the top and bottom, that is, where these formed faces will contact the load and support points.
 3. Ensure the prims is centered over the supporting span and perpendicular to the support.
 
