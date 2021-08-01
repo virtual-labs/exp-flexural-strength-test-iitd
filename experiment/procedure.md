@@ -70,7 +70,7 @@ The flexural strength shall be expressed to the nearest 0.05 MPa.
 
 <br><br>
 <table>
-	<tr style="font-weight:bold;">
+	<tr style="font-weight:bold; text-align:left">
 		<td>
 			No.
 		</td>
