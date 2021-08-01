@@ -1,5 +1,5 @@
 # Post Test
-Q1. which type of loading is applied in flexure strength test?<br>
+Q1. Which type of loading is applied in flexure strength test?<br>
 A    Single point loading<br>
 **B    Four-point loading**<br>
 C    Three-point loading<br>
