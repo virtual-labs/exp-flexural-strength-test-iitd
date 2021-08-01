@@ -25,7 +25,7 @@ where f<sub>ct</sub> is the split tensile strength, P is the compressive load at
 <img src="images/p1.png" style="padding-left: 50px; height: 51px; ">
 <br>
 
-where fcr is the flexural strength or the modulus of rupture, L, B, D are the span, width and depth of the beam, respectively, and P is the failure load for two-point loading. The modulus of rupture is about 1.3-1.8 times the strength obtained from direct tension test. This is because of the following reasons:
+where f<sub>cr</sub> is the flexural strength or the modulus of rupture, L, B, D are the span, width and depth of the beam, respectively, and P is the failure load for two-point loading. The modulus of rupture is about 1.3-1.8 times the strength obtained from direct tension test. This is because of the following reasons:
 
 
 a) In direct tension test, entire specimen is subjected to maximum tension stress while in flexure test only the extreme finer in the constant moment zone are subjected to maximum tension stresses, everywhere else the stresses are lesser. So, probability of a weak element occurring and thus resulting in failure is comparatively high in direct tension test.
@@ -43,7 +43,7 @@ Testing conditions: Tests shall be made at the recognized ages of the test speci
 | Name | 	Accuracy/Least count|
 | ------ | ------ |
 | Compression Testing Machine | 	Conforming to IS:14858 |
-| Beams moulds, 3 nos 150x150x700 or 100x100x500 | conforming to IS:1199 |
+| Beams moulds, 3 nos 150x150x700 or 100x100x500 | Conforming to IS:1199 |
 | Apparatus for flexural test | Conforming to IS:516 |
 | Plywood sheets | Thickness 4±1mm |
 | Ruler |0.2 mm|
