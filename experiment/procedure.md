@@ -70,7 +70,7 @@ The flexural strength shall be expressed to the nearest 0.05 MPa.
 
 <br><br>
 <table>
-	<tr style="font-weight:bold;">
+	<tr style="font-weight:bold; text-align:left">
 		<td>
 			No.
 		</td>
@@ -166,96 +166,6 @@ The flexural strength shall be expressed to the nearest 0.05 MPa.
 
 
 <br>
-
-<table>
-	<tr>
-		<td>No.</td>
-		<td>Span length , L (mm)</td>
-		<td>Depth, width, B, D (mm)</td>
-		<td>Failure Load, P (N)</td>
-		<td>Failure (Type A/B/unsatisfactory)</td>
-		<td>Position of fracture, a (mm)</td>
-		<td>Flexural Strength (N/mm<sup>2</sup>)</td>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Average:</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
- 
-
-**Results:**
-
-<table>
-	<tr style="font-weight:bold;">
-		<td>
-			Date of test:
-		</td>
-		<td>			
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Size of the specimen in mm:
-		</td>
-		<td>			
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Google Drive Age of specimen at date of test:
-		</td>
-		<td>			
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Weight of specimen in Newtons:
-		</td>
-		<td>			
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Flexural strength:
-		</td>
-		<td>		
-		</td>
-	</tr>
-</table>
-
 
 
 **Precautions:**
