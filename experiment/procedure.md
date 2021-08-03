@@ -9,16 +9,16 @@
 
 2. The mass and dimensions of the specimen shall be noted before testing.
 
-3. The dimensions of thespecimen shall be taken to the nearest 0.2 mm. Positioning.
+3. The dimensions of the specimen shall be taken to the nearest 0.2 mm positioning.
 
-4. The bearing surfaces of the testing machine and of theloading strips shall be wiped clean before positioning the specimen.
+4. The bearing surfaces of the testing machine and of the loading strips shall be wiped clean before positioning the specimen.
 
-5. The test specimen shall be placed in the loading setup.The span is taken as600 mm for 150 mm specimens or 400 mm for 100 mm specimen.
+5. The test specimen shall be placed in the loading setup. The span is taken as 600 mm for 150 mm specimens or 400 mm for 100 mm specimen.
 
 
 **Rate of Loading**
 
-6. The load shall be applied without shock and increasedcontinuously at a nominal rate of 0.7 MPa/min(at a rate of loading of 4kN/min for 150mm specimens and 1.8kN/min for 100mm specimens.).
+6. The load shall be applied without shock and increased continuously at a nominal rate of 0.7 MPa/min (at a rate of loading of 4kN/min for 150mm specimens and 1.8kN/min for 100mm specimens.).
 
 <br>
 
@@ -27,7 +27,7 @@
 **Failure load**
 
 
-7. The maximum load applied shall then be recorded. Theappearance of concrete and any unusual features in the type of failure shall also be noted.
+7. The maximum load applied shall then be recorded. The appearance of concrete and any unusual features in the type of failure shall also be noted.
 
 <br>
 
@@ -36,8 +36,8 @@
 **Assessment of type of fracture:**
 
 
-The fractured specimen shall be examined, and the appearance of the concrete and type of fracture shall be recorded.The modulus of rupture value is calculated based on the location of the observed fracture.
-1. Type-A failure is when the fracture initiates in the tension surface within the middle third of the span (between the loading points). In case of type A failure, modulus of rupture fcr is given by the following formula:
+The fractured specimen shall be examined, and the appearance of the concrete and type of fracture shall be recorded. The modulus of rupture value is calculated based on the location of the observed fracture.
+1. Type-A failure is when the fracture initiates in the tension surface within the middle third of the span (between the loading points). In case of type A failure, modulus of rupture f<sub>cr</sub> is given by the following formula:
 
 <br>
 
