@@ -1,1 +1,1 @@
-## Flexural Strength Test of Concrete (Beam)
+## Flexural Strength of Concrete Test (Beam)
