@@ -646,7 +646,7 @@ function showmoveclk()
                 }, stepTime);
         }
 
-        animateValue("value", 0, 63, 2000);
+        animateValue("value", 0, 204, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("press1").style.visibility="visible";
         document.getElementById("press2").style.visibility="visible";
@@ -687,7 +687,7 @@ function showmoveclk()
                 }, stepTime);
         }
 
-        animateValue("value", 0, 140, 2500);
+        animateValue("value", 0, 210, 2500);
         /*Countdown Timer Animation Code End*/
         document.getElementById("press1").style.visibility="visible";
         document.getElementById("press2").style.visibility="visible";
@@ -801,7 +801,7 @@ function lshowmoveclk()
                 }, stepTime);
         }
 
-        animateValue("lvalue", 0, 43, 2000);
+        animateValue("lvalue", 0, 144, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("lpress1").style.visibility="visible";
         document.getElementById("lpress2").style.visibility="visible";
@@ -842,7 +842,7 @@ function lshowmoveclk()
                 }, stepTime);
         }
 
-        animateValue("lvalue", 0, 121, 2500);
+        animateValue("lvalue", 0, 181, 2500);
         /*Countdown Timer Animation Code End*/
         document.getElementById("lpress1").style.visibility="visible";
         document.getElementById("lpress2").style.visibility="visible";
@@ -956,7 +956,7 @@ function rshowmoveclk()
                 }, stepTime);
         }
 
-        animateValue("rvalue", 0, 60, 2000);
+        animateValue("rvalue", 0, 205, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("rpress1").style.visibility="visible";
         document.getElementById("rpress2").style.visibility="visible";
@@ -997,7 +997,7 @@ function rshowmoveclk()
                 }, stepTime);
         }
 
-        animateValue("rvalue", 0, 152, 3000);
+        animateValue("rvalue", 0, 228, 3000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("rpress1").style.visibility="visible";
         document.getElementById("rpress2").style.visibility="visible";
@@ -1111,7 +1111,7 @@ function sshowmoveclk()
                 }, stepTime);
         }
 
-        animateValue("svalue", 0, 51, 2000);
+        animateValue("svalue", 0, 172, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("spress1").style.visibility="visible";
         document.getElementById("spress2").style.visibility="visible";
@@ -1152,7 +1152,7 @@ function sshowmoveclk()
                 }, stepTime);
         }
 
-        animateValue("svalue", 0, 135, 3000);
+        animateValue("svalue", 0, 203, 3000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("spress1").style.visibility="visible";
         document.getElementById("spress2").style.visibility="visible";
@@ -1379,17 +1379,22 @@ function ShowLF()
     document.getElementById("ty3").innerHTML = sthree;
     document.getElementById("ty4").innerHTML = sone;
 
-    document.getElementById("lf1").innerHTML = "6.125 kN";
+    document.getElementById("lf1").innerHTML = "6.45 kN";
     document.getElementById("lf2").innerHTML = "4.32 kN";
     document.getElementById("lf3").innerHTML = "6.15 kN"; 
     document.getElementById("lf4").innerHTML = "5.15 kN";
 
-      
-rapt = (6.125*500)/(100*100*100); 
+// rapt = (6.125*500)/(100*100*100);
  
-rapt2 = (3*4.32*120)/(100*100*100); 
+// rapt2 = (3*4.32*120)/(100*100*100);
   
-rapt3 = (5.15*500)/(100*100*100);
+// rapt3 = (5.15*500)/(100*100*100); 
+
+rapt = 2.45;
+ 
+rapt2 = 1.55;
+  
+rapt3 = 2.06;
 
     document.getElementById("csf1").innerHTML = rapt;
     document.getElementById("csf2").innerHTML = rapt2;
@@ -1413,12 +1418,17 @@ rapt3 = (5.15*500)/(100*100*100);
     document.getElementById("lf3").innerHTML = "15.22 kN"; 
     document.getElementById("lf4").innerHTML = "13.50 kN";
  
-rapt = (14.06*700)/(150*150*150);  
+// rapt = (14.06*700)/(150*150*150);  
  
-rapt2 = (3*12.10*148)/(150*150*150);
+// rapt2 = (3*12.10*148)/(150*150*150);
 
-rapt3=  (13.50*700)/(100*100*100);
+// rapt3=  (13.50*700)/(100*100*100);
 
+rapt = 2.50;
+ 
+rapt2 = 1.66;
+  
+rapt3 = 2.40;
 
     document.getElementById("csf1").innerHTML = rapt;
     document.getElementById("csf2").innerHTML = rapt2;
@@ -1444,7 +1454,9 @@ function Showres()
     document.getElementById("res3").innerHTML = rapt3;
 
 printavg = (rapt + rapt2 + rapt3) / 3;
-    document.getElementById("resall").innerHTML = printavg;
+            var x2= printavg;
+            printavgss2 = x2.toFixed(2);
+    document.getElementById("resall").innerHTML = printavgss2;
     document.getElementById("arrow12").style.visibility="visible";
     document.getElementById("nextButton15").style.visibility="visible";
 }
@@ -1484,7 +1496,7 @@ document.getElementById("ft1").innerHTML= sone;
 document.getElementById("v1").innerHTML= "-";
 document.getElementById("fs1").innerHTML= rapt;
             var x2= printavg;
-            printavg2 = x2.toFixed(6);
+            printavg2 = x2.toFixed(2);
 document.getElementById("av1").innerHTML= printavg2;
 
 document.getElementById("im2").innerHTML= "N/A";
@@ -1500,7 +1512,7 @@ document.getElementById("im3").innerHTML= "N/A";
 document.getElementById("ad3").innerHTML= z;
 document.getElementById("td3").innerHTML = logo;
 document.getElementById("ml3").innerHTML= "5.15";
-document.getElementById("ft3").innerHTML= sthree;
+document.getElementById("ft3").innerHTML= sone;
 document.getElementById("v3").innerHTML= "-";
 document.getElementById("fs3").innerHTML= rapt3;
 // document.getElementById("av3").innerHTML= "N/A";
@@ -1527,7 +1539,7 @@ document.getElementById("ft1").innerHTML= sone;
 document.getElementById("v1").innerHTML= "-";
 document.getElementById("fs1").innerHTML= rapt;
             var x2= printavg;
-            printavg2 = x2.toFixed(5);
+            printavg2 = x2.toFixed(2);
 
 document.getElementById("av1").innerHTML= printavg2;
 
@@ -1544,7 +1556,7 @@ document.getElementById("im3").innerHTML= "N/A";
 document.getElementById("ad3").innerHTML= z;
 document.getElementById("td3").innerHTML = logo;
 document.getElementById("ml3").innerHTML= "13.50";
-document.getElementById("ft3").innerHTML= sthree;
+document.getElementById("ft3").innerHTML= sone;
 document.getElementById("v3").innerHTML= "-";
 document.getElementById("fs3").innerHTML= rapt3;
 // document.getElementById("av3").innerHTML= "N/A";
