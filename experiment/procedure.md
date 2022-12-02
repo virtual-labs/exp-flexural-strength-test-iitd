@@ -23,16 +23,18 @@ The fractured specimen shall be examined, and the appearance of the concrete and
 1. Type-A failure is when the fracture initiates in the tension surface within the middle third of the span (between the loading points). In case of type A failure, modulus of rupture fcr is given by the following formula:
 <br>
 
-f_cr=PL/(BD^2 )
+$$f_cr = \frac{PL}{BD^2}.$$
+
 
 <img src="images/p2.png"/>
 
 Figure. Type A failure
 
-2. Type B failureis when the fracture initiates in the tension surface outside of the middle third of the span length by not approximately more than 5 percent of the span length. In case of type B failure, modulus of rupture fcr is given by the following formula:
+2. Type B failure is when the fracture initiates in the tension surface outside of the middle third of the span length by not approximately more than 5 percent of the span length. In case of type B failure, modulus of rupture fcr is given by the following formula:
 <br>
 
-f_cr=3Pa/(BD^2 )
+$$f_cr = \frac{3Pa}{BD^2}.$$
+<br>
 
 where 'a' is the distance between the line of fracture and the nearer support, measured on the center line of the tensile side of the specimen. 'a' shall be less than 200 mm but greater than 170 mm for 150 mm specimen, or less than 133 mm but greater than 110 mm for a 100 mm specimen.
 
