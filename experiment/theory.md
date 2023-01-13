@@ -1,4 +1,4 @@
-### Introduction
+<h5> Introduction</h5>
 
 In normal structural design of members in flexure, the tensile strength of concrete is ignored. However, it is important to estimate the cracking load. The absence of cracking is important in maintaining the continuity of a concrete structure for diminishing the corrosion of reinforcement, the liquid retaining structures, for aesthetics, etc. Restrained shrinkage and temperature gradients also introduce tensile stresses. In roads, pavements and airport runways flexural tension must be resisted since steel reinforcement is absent in such pavements. Tensile strength of plain concrete can be determined by the following methods:
 
@@ -19,7 +19,8 @@ The ratio of direct tension strength to uniaxial compressive strength varies fro
 where f<sub>ct</sub> is the split tensile strength, P is the compressive load at failure, L is the length of the cylinder, and D is the diameter of the cylinder. The splitting cylinder test gives values about 1.05-1.15 times those obtained from direct tension test.
 
 
-3. Flexural tension test: In this test, a standard plain concrete beam is subjected to two-point loading (also called four-point loading or third point loading). Equal loads are applied at the distance of one third from both of the beam supports. With this configuration the middle one-third portion is subjected to pure bending. No shear force is induced within this portion. As loading increased, if fracture occur within in the middle third of the beam, the maximum tensile stress reached in the extreme tension fiber is called the "modulus of rupture" and is calculated from the following formula:
+3. Flexural tension test: In Flexural tension test test, a standard plain concrete beam is subjected to two-point loading (also called four-point loading or third point loading). Equal loads are applied at the distance of one third from both of the beam supports. With this configuration the middle one-third portion is subjected to pure bending. No shear force is induced within this portion. As loading increased, if fracture occur within in the middle third of the beam, the maximum tensile stress reached in the extreme tension fibre is called the "modulus of rupture" and is calculated from the following formula:
+
 
 <br>
 <img src="images/p1.png" style="padding-left: 50px; height: 51px; ">
@@ -35,10 +36,14 @@ b) In flexural test, the under stressed concrete near the neutral axis restrain 
 c) In flexural test it is assumed that the stress is proportional to the distance of fiber from the neutral axis. In reality, the stress distribution is parabolic. The modulus of rupture thus overestimates the tensile strength of concrete.
 <br><br>
 Number of specimens: At least three specimens shall be tested for each age of tests.<br><br>
-Testing conditions: Tests shall be made at the recognized ages of the test specimens, the most usual being 7 and 28 days.
+Testing conditions: The test specimen shall be a prism conforming to IS 1199 (Part 5). specimens of nominal width of 100 mm or 150 mm with a square cross-section and overall length of 500 mm and 700 mm may also be used. Tests shall be made at the recognized ages of the test specimens, the most usual being 7 and 28 days. . The ages shall be calculated from the time of the addition of water to the dry ingredients.
+
 <br> <br>
 
 ### Apparatus:
+
+The bed of the testing machine shall be provided with two steel rollers, 38 mm in diameter, on which the specimen is to be supported, and these rollers shall be so mounted that the distance from centre to centre is 600 mm for 150 mm specimens and 400 mm for 100 mm specimens.
+
 
 | Name | 	Accuracy/Least count|
 | ------ | ------ |
